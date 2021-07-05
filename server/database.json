@@ -1,0 +1,13 @@
+{
+
+    "host": "localhost",
+
+    "user": "wow",
+
+    "password": "1234",
+
+    "port": "3306",
+
+    "database": "project"
+
+}
